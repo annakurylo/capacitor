@@ -35,4 +35,5 @@ io.ionic.starter.app-packaged_res-33 D:\capacitor\capacitor-test\node_modules\@c
 io.ionic.starter.app-packaged_res-34 D:\capacitor\capacitor-test\node_modules\@capacitor\geolocation\android\build\intermediates\packaged_res\debug
 io.ionic.starter.app-packaged_res-35 D:\capacitor\capacitor-test\node_modules\@capacitor\haptics\android\build\intermediates\packaged_res\debug
 io.ionic.starter.app-packaged_res-36 D:\capacitor\capacitor-test\node_modules\@capacitor\keyboard\android\build\intermediates\packaged_res\debug
-io.ionic.starter.app-packaged_res-37 D:\capacitor\capacitor-test\node_modules\@capacitor\status-bar\android\build\intermediates\packaged_res\debug
+io.ionic.starter.app-packaged_res-37 D:\capacitor\capacitor-test\node_modules\@capacitor\local-notifications\android\build\intermediates\packaged_res\debug
+io.ionic.starter.app-packaged_res-38 D:\capacitor\capacitor-test\node_modules\@capacitor\status-bar\android\build\intermediates\packaged_res\debug

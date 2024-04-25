@@ -3,6 +3,15 @@
 	"appName": "ionic-app-base",
 	"webDir": "dist",
 	"server": {
-		"androidScheme": "https"
+		"androidScheme": "https",
+		"url": "http://192.168.1.12:8100",
+		"originalUrl": "https://annakurylo.github.io/capacitor"
+	},
+	"plugins": {
+		"LocalNotifications": {
+			"smallIcon": "ic_stat_icon_config_sample",
+			"iconColor": "#488AFF",
+			"sound": "beep.wav"
+		}
 	}
 }

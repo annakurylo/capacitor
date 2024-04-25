@@ -6,7 +6,14 @@ const config: CapacitorConfig = {
   webDir: "dist",
   server: {
     androidScheme: "https",
-    // url: "https://staging.7wrk.com",  //https://10.10.0.2
+    url: "https://annakurylo.github.io/capacitor", //https://10.10.0.2
+  },
+  plugins: {
+    LocalNotifications: {
+      smallIcon: "ic_stat_icon_config_sample",
+      iconColor: "#488AFF",
+      sound: "beep.wav",
+    },
   },
 };
 
