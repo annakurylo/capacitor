@@ -4,8 +4,7 @@
 	"webDir": "dist",
 	"server": {
 		"androidScheme": "https",
-		"url": "http://192.168.1.12:8100",
-		"originalUrl": "https://annakurylo.github.io/capacitor"
+		"url": "https://annakurylo.github.io/capacitor"
 	},
 	"plugins": {
 		"LocalNotifications": {
