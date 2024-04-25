@@ -1,7 +1,7 @@
 {
   "name": "ionic-app-base",
   "private": false,
-  "homepage": "https://annakurylo.github.io/capacitor/",
+  "homepage": "https://annakurylo.github.io/capacitor",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
