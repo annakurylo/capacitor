@@ -6,7 +6,7 @@ const config: CapacitorConfig = {
   webDir: "dist",
   server: {
     androidScheme: "https",
-    url: "https://annakurylo.github.io/capacitor", //https://10.10.0.2
+    url: "https://cosmobet.ua", //https://10.10.0.2
   },
   plugins: {
     LocalNotifications: {

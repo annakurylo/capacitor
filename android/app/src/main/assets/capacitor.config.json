@@ -4,7 +4,7 @@
 	"webDir": "dist",
 	"server": {
 		"androidScheme": "https",
-		"url": "https://annakurylo.github.io/capacitor"
+		"url": "https://cosmobet.ua"
 	},
 	"plugins": {
 		"LocalNotifications": {

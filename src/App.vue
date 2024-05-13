@@ -1,6 +1,7 @@
 <template>
   <div>
     <div @click="sendNotification">TEST</div>
+    AAAAA
     <h1>Geolocation</h1>
     <p>Your location is:</p>
     <p>Latitude: {{ loc.lat }}</p>

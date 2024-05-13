@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93e94eeb-2a72-4201-a167-2b83c52328fb" name="Changes" comment="" />
+    <list default="true" id="93e94eeb-2a72-4201-a167-2b83c52328fb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/capacitor.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/capacitor.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compressed_assets/debug/out/assets/capacitor.config.json.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compressed_assets/debug/out/assets/capacitor.config.json.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compressed_assets/debug/out/assets/public/index.html.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compressed_assets/debug/out/assets/public/index.html.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml.orig" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/capacitor.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/capacitor.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../capacitor.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../capacitor.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/FolderPage-Bv7plCeN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/FolderPage-legacy-CSVhB32A.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/index-RVNYgGUz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/index-legacy-CXqyitZZ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/index9-KwpLAx08.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/index9-legacy-SeJEjm9Y.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/input-shims-DbIMWXN5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/input-shims-legacy-B9Lgu0hB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/ios.transition-BLv2mAo8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/ios.transition-legacy-DzjjaiGa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/keyboard-4p2y7Ebt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/keyboard-legacy-D-wgmJmO.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/keyboard2-CfLk3fAf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/keyboard2-legacy-B8zzpLUA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/md.transition-DqhC7XBJ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/md.transition-legacy-WWJudSRi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/status-tap-CPCj-INN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/status-tap-legacy-C42ZKuGS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/swipe-back-DVj81pNF.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/swipe-back-legacy-C9FQKau1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/web-BLPIPKoW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/web-C2jP9L7j.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/web-legacy-C_LfNGxr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/assets/web-legacy-DTzqtpC7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../src/App.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +85,15 @@
       </state>
     </system>
   </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\Anne\Desktop\cosmobet-key.jks" />
+    <option name="KEY_ALIAS" value="cosmobet" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -39,16 +102,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ApkExportedModule&quot;: &quot;android.app&quot;,
+    &quot;ExportApk.ApkPathForandroid.app&quot;: &quot;D:\\capacitor\\capacitor-test\\android\\app&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ExportApk.BuildVariants&quot;: [
+      &quot;release&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="android.app.main" />
@@ -128,5 +199,16 @@
       <updated>1713549651190</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
